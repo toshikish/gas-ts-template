@@ -1,0 +1,14 @@
+{
+  "name": "gas-ts-template",
+  "version": "1.0.0",
+  "description": "A template for GAS project on TypeScript using clasp",
+  "main": "src/Code.ts",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Toshiki Shimomura",
+  "license": "ISC"
+}
